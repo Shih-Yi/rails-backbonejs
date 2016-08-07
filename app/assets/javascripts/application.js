@@ -12,5 +12,18 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require underscore
+//= require handlebars.runtime
+//= require handlebars
+
+//= require application/app
 //= require turbolinks
+//= require underscore
+//= require backbone
+//= require backbonejs
+//= require_tree ../templates
+//= require_tree ./models
+//= require_tree ./collections
+//= require_tree ./views
+//= require_tree ./routers
 //= require_tree .
